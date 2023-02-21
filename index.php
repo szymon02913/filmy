@@ -10,8 +10,7 @@
         <div class="main_index">
             <h3>O nas: </h3>
             <h5>
-                Coś tam coś Coś tam coś Coś tam coś Coś tam coś Coś tam coś Coś tam coś <br>
-                Coś tam coś Coś tam coś Coś tam coś
+               
             </h5>
             
         </div>
